@@ -16,7 +16,7 @@
     height: 100px;
     width: 50px;
     background-color: blue;
-    color: white;
+    color: rgb(250, 247, 247);
     animation: mymove 0.5s infinite;
   }
   
